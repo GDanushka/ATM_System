@@ -1,6 +1,3 @@
-K.P.G Gayan Danushka
-
-GAL/IT/2020/F/0095
 Main Class-->AtmLogIn.java
 
 Log In details
