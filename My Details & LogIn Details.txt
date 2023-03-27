@@ -1,0 +1,9 @@
+K.P.G Gayan Danushka
+
+GAL/IT/2020/F/0095
+Main Class-->AtmLogIn.java
+
+Log In details
+
+Card No :  1234 5678 1234 5678
+PIN     :  1234
